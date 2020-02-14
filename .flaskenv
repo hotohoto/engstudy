@@ -1,0 +1,1 @@
+FLASK_APP=engstudy_server_main.py
