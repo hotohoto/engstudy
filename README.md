@@ -12,6 +12,33 @@
   - users decide what to learn
   - users don't want to learn which is not necessary
 
+## TODO
+
+web (front-end / back-end / DevOps)
+
+- api design
+- jwt
+- tslint
+- scss
+- react-router
+- email verification
+- password encryption
+- sqlalchemy
+- make ui responsive
+- logo and look and feel
+- https
+- hosting
+- adsense
+- google analytics
+- search optimization
+
+engine
+
+- build dictionary
+- sample test
+- get best words
+- find good sentences
+
 ## how to run
 
 ### initialization
